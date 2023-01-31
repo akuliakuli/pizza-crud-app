@@ -1,1 +1,1 @@
-# WebApp
+# Pizzeria Web CRUD app
